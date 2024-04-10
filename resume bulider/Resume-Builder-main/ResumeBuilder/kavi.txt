@@ -1,0 +1,28 @@
+     ********** Personal Information **********     
+Full Name: kavi
+Email: 
+Contact: 
+DOB: 
+Gender: 
+Address: 
+
+     ********** Educational Qualifications **********     
+SSC/ HSC/ DIPLOMA: 
+School Name: 
+Marks: 
+UG/ PG: 
+College/ University Name: 
+Marks: 
+
+     ********** Other Certifications **********     
+Certification Name: 
+ Certification Marks: 
+
+     ********** Skills **********     
+
+     ********** Projects **********     
+Project Name: 
+Details: 
+     ********** Work Experience **********     
+Company: 
+Designation: 
